@@ -6,6 +6,7 @@ class Tree():
 m = int(input())
 ip = list(map(int, input().split()))
 l = []
+root = None
 
 
 for i in ip:
